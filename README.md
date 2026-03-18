@@ -1,4 +1,4 @@
-#React State Behaviors
+# React State Behaviors
 
 An interactive React demo that visualizes **re-render cascades** and the **over-subscription problem** with React Context, and lets you compare it side-by-side with Zustand selector-based subscriptions — live, in the browser.
 
